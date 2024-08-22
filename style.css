@@ -117,8 +117,4 @@ body {
         flex-shrink: 0;
         width: auto;
     }
-
-    .search button img {
-        width: 1.5rem; /* Adjust icon size */
-    }
 }
